@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">👋 Welcome to My GitHub Profile</h1>
 
-<!--
-**varun08x/varun08x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Building intelligent AI solutions • Computer Vision • Real-world ML Systems
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+
+```yaml
+name: Varun Kulkarni
+role: AI & Machine Learning Student
+interests:
+  - Computer Vision
+  - Deep Learning
+  - Intelligent Automation
+  - Real-time AI Systems
+
+tech_stack:
+  - Python
+  - TensorFlow / Keras
+  - OpenCV
+  - YOLO
+  - Streamlit
+  - Web Development
+
+current_focus: Deployable AI applications & real-time recognition systems
