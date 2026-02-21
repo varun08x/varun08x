@@ -22,7 +22,6 @@ tech_stack:
   - TensorFlow / Keras
   - OpenCV
   - YOLO
-  - Streamlit
   - Web Development
 
 current_focus: Deployable AI applications & real-time recognition systems
